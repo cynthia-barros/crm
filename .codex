@@ -1,1 +1,12 @@
+# Contexto Operacional: CRM Project
 
+## Stack e Arquitetura
+- Repositório: GitHub
+- Banco de Dados & Auth: Supabase (PostgreSQL)
+- Modelo Operacional: Sys AI-SDLC (Fases: Research, Plan, Implement)
+
+## Diretrizes de Execução
+1. Siga estritamente o fluxo RPI etapa por etapa.
+2. Não gere código final da fase de implementação antes de concluirmos a documentação de Research e Plan.
+3. Toda decisão técnica deve considerar compatibilidade nativa com Supabase (RLS, schemas, triggers/functions).
+4. Mantenha os artefatos de documentação sempre atualizados antes de fechar cada etapa.
